@@ -6,4 +6,6 @@ Cute Dust Ball | <a href="http://tomhsiao1260.github.io/dust-ball" target="_blan
     <img src="./assets/dust.gif" width="600px"/>
 </p>
 
-This is a fun exercise for me to make animation on the browser using pure CSS.
+<p align="center">
+    This is a fun exercise for me to make animation on the browser using pure CSS.
+</p>

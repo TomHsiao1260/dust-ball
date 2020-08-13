@@ -132,8 +132,21 @@ body{
   }
 }
 
-/*
-calc()...
-delay -2s
-*/
+body{
+  height:100%;
+}
+
+footer{
+  position: absolute;
+  width:80%;
+  bottom:7%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+@media screen and (max-width:600px) {
+  footer{
+    bottom:1%;
+  }
+}
 
