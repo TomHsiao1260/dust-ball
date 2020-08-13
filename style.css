@@ -146,7 +146,7 @@ footer{
 }
 @media screen and (max-width:600px) {
   footer{
-    bottom:1%;
+    bottom:1.5%;
   }
 }
 
